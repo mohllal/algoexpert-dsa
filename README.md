@@ -1,29 +1,62 @@
-
 # Algoexpert
 
 Algoexpert problems' solutions.
 
-## Problems
+## 🟩 Easy Problems
 
-### 🟩 Easy
+### Arrays
 
-| Problem | Category |
-| ------------- | ------------- |
-| [Two Number Sum](./easy/twoNumberSum.py)  | Arrays  |
-| [Validate Subsequence](./easy/validateSubsequence.py)  | Arrays  |
-| [Sorted Squared Array](./easy/sortedSquaredArray.py)  | Arrays  |
-| [Non Constructible Change](./easy/nonConstructibleChange.py)  | Arrays  |
-| [Tournament Winner](./easy/tournamentWinner.py)  | Arrays  |
-| [Palindrome Check](./easy/isPalindrome.py)  | Strings  |
-| [Caesar Cipher Encryptor](./easy/caesarCipherEncryptor.py)  | Strings  |
-| [Generate Document](./easy/generateDocument.py)  | Strings  |
-| [Bubble Sort](./easy/bubbleSort.py)  | Sorting  |
-| [Insertion Sort](./easy/insertionSort.py)  | Sorting  |
-| [Selection Sort](./easy/selectionSort.py)  | Sorting  |
-| [Find Three Largest Numbers](./easy/findThreeLargestNumbers.py)  | Searching  |
-| [Middle Node](./easy/middleNode.py)  | Linked Lists  |
-| [Remove Duplicates From LinkedList](./easy/removeDuplicatesFromLinkedList.py)  | Linked Lists  |
-| [Minimum Waiting Time](./easy/minimumWaitingTime.py)  | Greedy Algorithm  |
-| [Class Photos](./easy/classPhotos.py)  | Greedy Algorithm  |
-| [Optimal Freelancing](./easy/optimalFreelancing.py)  | Greedy Algorithm  |
-| [Tandem Bicycle](./easy/tandemBicycle.py)  | Greedy Algorithm  |
+| Problem                                                      |
+| ------------------------------------------------------------ |
+| [Two Number Sum](./easy/twoNumberSum.py)                     |
+| [Validate Subsequence](./easy/validateSubsequence.py)        |
+| [Sorted Squared Array](./easy/sortedSquaredArray.py)         |
+| [Non Constructible Change](./easy/nonConstructibleChange.py) |
+| [Tournament Winner](./easy/tournamentWinner.py)              |
+| [Transpose Matrix](./easy/transposeMatrix.py)                |
+
+### Strings
+
+| Problem                                                    |
+| ---------------------------------------------------------- |
+| [Palindrome Check](./easy/isPalindrome.py)                 |
+| [Caesar Cipher Encryptor](./easy/caesarCipherEncryptor.py) |
+| [Generate Document](./easy/generateDocument.py)            |
+| [Semordnilap](./easy/semordnilap.py)                       |
+| [Run-Length Encoding](./easy/runLengthEncoding.py)         |
+
+### Searching
+
+| Problem                                                         |
+| --------------------------------------------------------------- |
+| [Find Three Largest Numbers](./easy/findThreeLargestNumbers.py) |
+
+### Sorting
+
+| Problem                                   |
+| ----------------------------------------- |
+| [Bubble Sort](./easy/bubbleSort.py)       |
+| [Insertion Sort](./easy/insertionSort.py) |
+| [Selection Sort](./easy/selectionSort.py) |
+
+### Linked Lists
+
+| Problem                                                                       |
+| ----------------------------------------------------------------------------- |
+| [Middle Node](./easy/middleNode.py)                                           |
+| [Remove Duplicates From LinkedList](./easy/removeDuplicatesFromLinkedList.py) |
+
+### Greedy Algorithm
+
+| Problem                                              |
+| ---------------------------------------------------- |
+| [Minimum Waiting Time](./easy/minimumWaitingTime.py) |
+| [Class Photos](./easy/classPhotos.py)                |
+| [Optimal Freelancing](./easy/optimalFreelancing.py)  |
+| [Tandem Bicycle](./easy/tandemBicycle.py)            |
+
+### Recursion
+
+| Problem                              |
+| ------------------------------------ |
+| [Nth Fibonacci](./easy/getNthFib.py) |
