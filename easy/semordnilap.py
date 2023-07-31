@@ -1,0 +1,38 @@
+def semordnilap(words):
+    return semordnilapNTimesMTimeAndNTimesMSpace(words)
+
+
+"""
+O(n*m) time and O(n*m) space
+n is the length of the input array
+m is the length of the longest word
+"""
+def semordnilapNTimesMTimeAndNTimesMSpace(words):
+    pairs = []
+    exists = set(words)
+
+    for word in words:
+        reverse = word[::-1]
+        if word != reverse and reverse in exists:
+            pairs.append([word, reverse])
+            exists.discard(reverse)
+            exists.discard(word)
+
+    return pairs
+
+
+"""
+O((n^2)+(n*m)) time and O(n*m) space
+n is the length of the input array
+m is the length of the longest word
+"""
+def semordnilapNSquaredPlusNTimesMTimeAndNTimesMSpace(words):
+    pairs = []
+
+    for i in range(0, len(words)):
+        reverse = words[i][::-1]
+        for j in range(i + 1, len(words)):
+            if words[j] == reverse:
+                pairs.append([words[i], words[j]])
+
+    return pairs
