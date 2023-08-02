@@ -17,13 +17,15 @@ Algoexpert problems' solutions.
 
 ### Strings
 
-| Problem                                                    |
-| ---------------------------------------------------------- |
-| [Palindrome Check](./easy/isPalindrome.py)                 |
-| [Caesar Cipher Encryptor](./easy/caesarCipherEncryptor.py) |
-| [Generate Document](./easy/generateDocument.py)            |
-| [Semordnilap](./easy/semordnilap.py)                       |
-| [Run-Length Encoding](./easy/runLengthEncoding.py)         |
+| Problem                                                               |
+| --------------------------------------------------------------------- |
+| [Palindrome Check](./easy/isPalindrome.py)                            |
+| [Caesar Cipher Encryptor](./easy/caesarCipherEncryptor.py)            |
+| [Generate Document](./easy/generateDocument.py)                       |
+| [Semordnilap](./easy/semordnilap.py)                                  |
+| [Run-Length Encoding](./easy/runLengthEncoding.py)                    |
+| [First Non-Repeating Character](./easy/firstNonRepeatingCharacter.py) |
+| [Common Characters](./easy/commonCharacters.py)                       |
 
 ### Searching
 
