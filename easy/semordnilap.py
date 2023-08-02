@@ -1,5 +1,5 @@
 def semordnilap(words):
-    return semordnilapNTimesMTimeAndNTimesMSpace(words)
+    return semordnilapLinearQuadraticTimeAndLinearQuadraticSpace(words)
 
 
 """
@@ -7,7 +7,7 @@ O(n*m) time and O(n*m) space
 n is the length of the input array
 m is the length of the longest word
 """
-def semordnilapNTimesMTimeAndNTimesMSpace(words):
+def semordnilapLinearQuadraticTimeAndLinearQuadraticSpace(words):
     pairs = []
     exists = set(words)
 
@@ -26,7 +26,7 @@ O((n^2)+(n*m)) time and O(n*m) space
 n is the length of the input array
 m is the length of the longest word
 """
-def semordnilapNSquaredPlusNTimesMTimeAndNTimesMSpace(words):
+def semordnilapAnotherLinearQuadraticTimeAndLinearQuadraticSpace(words):
     pairs = []
 
     for i in range(0, len(words)):
