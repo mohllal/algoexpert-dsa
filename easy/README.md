@@ -2,8 +2,8 @@
 
 ## Arrays
 
-| Problem                                                      |
-| ------------------------------------------------------------ |
+| Problem                                                 |
+| ------------------------------------------------------- |
 | [Two Number Sum](./twoNumberSum.py)                     |
 | [Validate Subsequence](./validateSubsequence.py)        |
 | [Sorted Squared Array](./sortedSquaredArray.py)         |
@@ -13,8 +13,8 @@
 
 ### Strings
 
-| Problem                                                               |
-| --------------------------------------------------------------------- |
+| Problem                                                          |
+| ---------------------------------------------------------------- |
 | [Palindrome Check](./isPalindrome.py)                            |
 | [Caesar Cipher Encryptor](./caesarCipherEncryptor.py)            |
 | [Generate Document](./generateDocument.py)                       |
@@ -25,43 +25,58 @@
 
 ### Searching
 
-| Problem                                                         |
-| --------------------------------------------------------------- |
+| Problem                                                    |
+| ---------------------------------------------------------- |
 | [Find Three Largest Numbers](./findThreeLargestNumbers.py) |
 | [Binary Search](./binarySearch.py)                         |
 
 ### Sorting
 
-| Problem                                   |
-| ----------------------------------------- |
+| Problem                              |
+| ------------------------------------ |
 | [Bubble Sort](./bubbleSort.py)       |
 | [Insertion Sort](./insertionSort.py) |
 | [Selection Sort](./selectionSort.py) |
 
 ### Linked Lists
 
-| Problem                                                                       |
-| ----------------------------------------------------------------------------- |
-| [Middle Node](./middleNode.py)                                           |
-| [Remove Duplicates From LinkedList](./removeDuplicatesFromLinkedList.py) |
+| Problem                                                                      |
+| ---------------------------------------------------------------------------- |
+| [Middle Node](./middleNode.py)                                               |
+| **[Remove Duplicates From LinkedList](./removeDuplicatesFromLinkedList.py)** |
 
 ### Greedy Algorithm
 
-| Problem                                              |
-| ---------------------------------------------------- |
-| [Minimum Waiting Time](./minimumWaitingTime.py) |
-| [Class Photos](./classPhotos.py)                |
-| [Optimal Freelancing](./optimalFreelancing.py)  |
-| [Tandem Bicycle](./tandemBicycle.py)            |
+| Problem                                            |
+| -------------------------------------------------- |
+| [Minimum Waiting Time](./minimumWaitingTime.py)    |
+| [Class Photos](./classPhotos.py)                   |
+| **[Optimal Freelancing](./optimalFreelancing.py)** |
+| [Tandem Bicycle](./tandemBicycle.py)               |
 
 ### Recursion
 
-| Problem                              |
-| ------------------------------------ |
+| Problem                         |
+| ------------------------------- |
 | [Nth Fibonacci](./getNthFib.py) |
+| [Product Sum](./productSum.py)  |
 
 ### Graphs
 
-| Problem                                          |
-| ------------------------------------------------ |
+| Problem                                     |
+| ------------------------------------------- |
 | [Depth-First Search](./depthFirstSearch.py) |
+
+### Binary Trees
+
+| Problem                                                 |
+| ------------------------------------------------------- |
+| [Node Depths](./nodeDepths.py)                          |
+| **[Branch Sums](./branchSums.py)**                      |
+| [Evaluate Expression Tree](./evaluateExpressionTree.py) |
+
+### Binary Search Trees
+
+| Problem                                                     |
+| ----------------------------------------------------------- |
+| **[Find Closest Value In BST](./findClosestValueInBst.py)** |
