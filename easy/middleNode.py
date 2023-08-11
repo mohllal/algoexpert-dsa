@@ -39,3 +39,18 @@ def middleNodeLinearTimeAndConstantSpace(linkedList):
         currentNode = currentNode.next
 
     return currentNode
+
+
+"""
+O(n) time and O(1) space
+n is the length of the input string
+"""
+def middleNodeAnotherLinearTimeAndConstantSpace(linkedList):
+    slow = linkedList
+    fast = linkedList
+
+    while fast is not None and fast.next is not None:
+        slow = slow.next
+        fast = fast.next.next
+
+    return slow
