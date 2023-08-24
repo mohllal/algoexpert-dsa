@@ -2,9 +2,12 @@
 
 ## Stacks
 
-| Problem                           |
-| --------------------------------- |
-| [Min Max Stack](./minMaxStack.py) |
+| Problem                                    |
+| ------------------------------------------ |
+| [Min Max Stack](./minMaxStack.py)          |
+| [Balanced Brackets](./balancedBrackets.py) |
+| [Sunset Views](./sunsetViews.py)           |
+| **[Best Digits](./bestDigits.py)**         |
 
 ## Arrays
 
