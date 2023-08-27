@@ -19,6 +19,7 @@
 | [Monotonic Array](./isMonotonic.py)            |
 | [Longest Peak](./longestPeak.py)               |
 | **[Majority Element](./majorityElement.py)**   |
+| [Missing Numbers](./missingNumbers.py)         |
 
 ## Graphs
 
@@ -33,3 +34,9 @@
 | **[Construct BST](./constructBST.py)** |
 | **[Validate BST](./validateBst.py)**   |
 | [BST Traversal](./bstTraversal.py)     |
+
+## Popluar Algorithms
+
+| Problem                      |
+| ---------------------------- |
+| [Union Find](./unionFind.py) |
