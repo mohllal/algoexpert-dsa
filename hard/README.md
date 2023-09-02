@@ -2,6 +2,7 @@
 
 ## Popluar Algorithms
 
-| Problem                                       |
-| --------------------------------------------- |
-| [Kruskals' Algorithm](./kruskalsAlgorithm.py) |
+| Problem                                         | Favorite |
+| ----------------------------------------------- | -------- |
+| [Kruskals' Algorithm](./kruskalsAlgorithm.py)   |          |
+| [dijkstra's Algorithm](./dijkstrasAlgorithm.py) |          |
