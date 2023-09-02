@@ -8,18 +8,21 @@
 | [Balanced Brackets](./balancedBrackets.py) |
 | [Sunset Views](./sunsetViews.py)           |
 | **[Best Digits](./bestDigits.py)**         |
+| [Sort Stack](./sortStack.py)               |
 
 ## Arrays
 
-| Problem                                        |
-| ---------------------------------------------- |
-| [Three Number Sum](./threeNumberSum.py)        |
-| [Smallest Difference](./smallestDifference.py) |
-| [Move Element To End](./moveElementToEnd.py)   |
-| [Monotonic Array](./isMonotonic.py)            |
-| [Longest Peak](./longestPeak.py)               |
-| **[Majority Element](./majorityElement.py)**   |
-| [Missing Numbers](./missingNumbers.py)         |
+| Problem                                               |
+| ----------------------------------------------------- |
+| [Three Number Sum](./threeNumberSum.py)               |
+| [Smallest Difference](./smallestDifference.py)        |
+| [Move Element To End](./moveElementToEnd.py)          |
+| [Monotonic Array](./isMonotonic.py)                   |
+| [Longest Peak](./longestPeak.py)                      |
+| **[Majority Element](./majorityElement.py)**          |
+| [Missing Numbers](./missingNumbers.py)                |
+| **[First Duplicate Value](./firstDuplicateValue.py)** |
+| [Array of Products](./arrayOfProducts.py)             |
 
 ## Graphs
 
