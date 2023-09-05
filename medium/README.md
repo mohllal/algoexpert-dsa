@@ -32,11 +32,13 @@
 
 ## Binary Search Trees
 
-| Problem                                |
-| -------------------------------------- |
-| **[Construct BST](./constructBST.py)** |
-| **[Validate BST](./validateBst.py)**   |
-| [BST Traversal](./bstTraversal.py)     |
+| Problem                                                        |
+| -------------------------------------------------------------- |
+| **[Construct BST](./constructBST.py)**                         |
+| **[Validate BST](./validateBst.py)**                           |
+| [BST Traversal](./bstTraversal.py)                             |
+| **[Reconstruct BST](./reconstructBst.py)**                     |
+| [Find Kth Largest Value in BST](./findKthLargestValueInBst.py) |
 
 ## Popluar Algorithms
 
