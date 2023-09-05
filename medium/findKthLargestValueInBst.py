@@ -36,16 +36,14 @@ def findKthLargestValueInBstAnotherLinearTimeAndLinearSpace(tree, k):
         nonlocal result
         nonlocal k
 
-        if tree is None:
+        if tree is None or k == 0:
             return
 
         findKthLargestValueInBstHelper(tree.right)
 
-        if k == 0:
-            return
-
-        result = tree.value
-        k -= 1
+        if k > 0:
+            result = tree.value
+            k -= 1
 
         findKthLargestValueInBstHelper(tree.left)
 
