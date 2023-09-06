@@ -40,6 +40,12 @@
 | **[Reconstruct BST](./reconstructBst.py)**                     |
 | [Find Kth Largest Value in BST](./findKthLargestValueInBst.py) |
 
+## Heaps
+
+| Problem                      |
+| ---------------------------- |
+| [Min Heap](./minHeap.py) |
+
 ## Popluar Algorithms
 
 | Problem                      |
