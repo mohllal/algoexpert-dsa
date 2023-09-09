@@ -23,6 +23,7 @@
 | [Missing Numbers](./missingNumbers.py)                |
 | **[First Duplicate Value](./firstDuplicateValue.py)** |
 | [Array of Products](./arrayOfProducts.py)             |
+| [Zero Sum Subarray](./zeroSumSubarray.py)             |
 
 ## Graphs
 
@@ -42,8 +43,8 @@
 
 ## Heaps
 
-| Problem                      |
-| ---------------------------- |
+| Problem                  |
+| ------------------------ |
 | [Min Heap](./minHeap.py) |
 
 ## Popluar Algorithms
