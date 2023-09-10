@@ -1,5 +1,5 @@
 """
-O(n*log(n)) time and O(1) space
+O(nlog(n)) time and O(1) space
 n is the length of the input array
 """
 def sweetAndSavory(dishes, target):
