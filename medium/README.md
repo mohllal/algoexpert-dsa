@@ -2,13 +2,15 @@
 
 ## Stacks
 
-| Problem                                    |
-| ------------------------------------------ |
-| [Min Max Stack](./minMaxStack.py)          |
-| [Balanced Brackets](./balancedBrackets.py) |
-| [Sunset Views](./sunsetViews.py)           |
-| **[Best Digits](./bestDigits.py)**         |
-| [Sort Stack](./sortStack.py)               |
+| Problem                                               |
+| ----------------------------------------------------- |
+| [Min Max Stack](./minMaxStack.py)                     |
+| [Balanced Brackets](./balancedBrackets.py)            |
+| [Sunset Views](./sunsetViews.py)                      |
+| **[Best Digits](./bestDigits.py)**                    |
+| [Sort Stack](./sortStack.py)                          |
+| [Colliding Asteroids](./collidingAsteroids.py)        |
+| [Reverse Polish Notation](./reversePolishNotation.py) |
 
 ## Arrays
 
