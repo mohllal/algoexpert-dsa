@@ -11,6 +11,7 @@
 | [Sort Stack](./sortStack.py)                          |
 | [Colliding Asteroids](./collidingAsteroids.py)        |
 | [Reverse Polish Notation](./reversePolishNotation.py) |
+| **[Next Greater Element](./nextGreaterElement.py)**   |
 
 ## Arrays
 
@@ -58,3 +59,9 @@
 | Problem                      |
 | ---------------------------- |
 | [Union Find](./unionFind.py) |
+
+### Linked Lists
+
+| Problem                                         |
+| ----------------------------------------------- |
+| **[Doubly Linked List](./doublyLinkedList.py)** |
