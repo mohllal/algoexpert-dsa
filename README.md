@@ -1,8 +1,8 @@
-# Algoexpert
+# Algoexpert DSA
 
 Algoexpert problems' solutions.
 
-## Problems by difficulty
+## Problems by Difficulty
 
 - [🟩 Easy](./easy/)
 - [🟦 Medium](./medium/)
