@@ -62,6 +62,8 @@
 
 ### Linked Lists
 
-| Problem                                         |
-| ----------------------------------------------- |
-| **[Doubly Linked List](./doublyLinkedList.py)** |
+| Problem                                               |
+| ----------------------------------------------------- |
+| **[Doubly Linked List](./doublyLinkedList.py)**       |
+| [Remove Kth Node From End](./removeKthNodeFromEnd.py) |
+| [Sum of Linked Lists](./sumOfLinkedLists.py) |
