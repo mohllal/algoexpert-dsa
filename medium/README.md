@@ -66,4 +66,11 @@
 | ----------------------------------------------------- |
 | **[Doubly Linked List](./doublyLinkedList.py)**       |
 | [Remove Kth Node From End](./removeKthNodeFromEnd.py) |
-| [Sum of Linked Lists](./sumOfLinkedLists.py) |
+| [Sum of Linked Lists](./sumOfLinkedLists.py)          |
+| [Merging Linked Lists](./mergingLinkedLists.py)       |
+
+### Searching
+
+| Problem                                            |
+| -------------------------------------------------- |
+| [Search In Sorted Matrix](searchInSortedMatrix.py) |
