@@ -48,6 +48,12 @@
 | **[Reconstruct BST](./reconstructBst.py)**                     |
 | [Find Kth Largest Value in BST](./findKthLargestValueInBst.py) |
 
+## Binary Trees
+
+| Problem                                     |
+| ------------------------------------------- |
+| [Invert Binary Tree](./invertBinaryTree.py) |
+
 ## Heaps
 
 | Problem                  |
@@ -74,3 +80,10 @@
 | Problem                                            |
 | -------------------------------------------------- |
 | [Search In Sorted Matrix](searchInSortedMatrix.py) |
+
+### Greedy Algorithm
+
+| Problem                                         |
+| ----------------------------------------------- |
+| [Task Assignment](taskAssignment.py)            |
+| **[Valid Starting City](validStartingCity.py)** |
