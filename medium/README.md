@@ -56,6 +56,8 @@
 | [Binary Tree Diameter](./binaryTreeDiameter.py)              |
 | [Height Balanced Binary Tree](./heightBalancedBinaryTree.py) |
 | **[Find Successor](./findSuccessor.py)**                     |
+| [Merge Binary Trees](./mergeBinaryTrees.py)                  |
+| [Symmetrical Tree](./symmetricalTree.py)                     |
 
 ## Heaps
 
