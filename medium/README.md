@@ -50,9 +50,12 @@
 
 ## Binary Trees
 
-| Problem                                     |
-| ------------------------------------------- |
-| [Invert Binary Tree](./invertBinaryTree.py) |
+| Problem                                                      |
+| ------------------------------------------------------------ |
+| [Invert Binary Tree](./invertBinaryTree.py)                  |
+| [Binary Tree Diameter](./binaryTreeDiameter.py)              |
+| [Height Balanced Binary Tree](./heightBalancedBinaryTree.py) |
+| **[Find Successor](./findSuccessor.py)**                     |
 
 ## Heaps
 
