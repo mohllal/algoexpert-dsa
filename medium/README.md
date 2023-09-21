@@ -58,6 +58,7 @@
 | **[Find Successor](./findSuccessor.py)**                     |
 | [Merge Binary Trees](./mergeBinaryTrees.py)                  |
 | [Symmetrical Tree](./symmetricalTree.py)                     |
+| [Split Binary Tree](./splitBinaryTree.py)                    |
 
 ## Heaps
 
