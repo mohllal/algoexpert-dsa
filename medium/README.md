@@ -93,3 +93,9 @@
 | ----------------------------------------------- |
 | [Task Assignment](taskAssignment.py)            |
 | **[Valid Starting City](validStartingCity.py)** |
+
+### Recursion
+
+| Problem                             |
+| ----------------------------------- |
+| **[Permutations](permutations.py)** |
