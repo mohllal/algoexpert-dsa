@@ -89,13 +89,21 @@
 
 ### Greedy Algorithm
 
-| Problem                                         |
-| ----------------------------------------------- |
-| [Task Assignment](taskAssignment.py)            |
-| **[Valid Starting City](validStartingCity.py)** |
+| Problem                                           |
+| ------------------------------------------------- |
+| [Task Assignment](./taskAssignment.py)            |
+| **[Valid Starting City](./validStartingCity.py)** |
 
 ### Recursion
 
-| Problem                             |
-| ----------------------------------- |
-| **[Permutations](permutations.py)** |
+| Problem                                            |
+| -------------------------------------------------- |
+| **[Permutations](./permutations.py)**              |
+| **[Staircase Traversal](./staircaseTraversal.py)** |
+
+### Strings
+
+| Problem                                              |
+| ---------------------------------------------------- |
+| [Reverse Words in String](./reverseWordsInString.py) |
+| [Group Anagrams](./groupAnagrams.py)                 |
