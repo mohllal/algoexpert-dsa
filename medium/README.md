@@ -109,3 +109,4 @@
 | [Group Anagrams](./groupAnagrams.py)                           |
 | [Minimum Characters For Words](./minimumCharactersForWords.py) |
 | [One Edit](./oneEdit.py)                                       |
+| **[Valid IP Address](./validIPAddresses.py)**                  |
