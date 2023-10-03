@@ -100,6 +100,8 @@
 | -------------------------------------------------- |
 | **[Permutations](./permutations.py)**              |
 | **[Staircase Traversal](./staircaseTraversal.py)** |
+| **[Powerset](./powerset.py)** |
+| **[Phone Number Mnemonics](./phoneNumberMnemonics.py)** |
 
 ### Strings
 
