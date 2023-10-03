@@ -37,6 +37,7 @@
 | Problem                                         |
 | ----------------------------------------------- |
 | [Breadth-First Search](./breadthFirstSearch.py) |
+| [Cycle In Graph](./cycleInGraph.py)             |
 
 ## Binary Search Trees
 
@@ -96,11 +97,11 @@
 
 ### Recursion
 
-| Problem                                            |
-| -------------------------------------------------- |
-| **[Permutations](./permutations.py)**              |
-| **[Staircase Traversal](./staircaseTraversal.py)** |
-| **[Powerset](./powerset.py)** |
+| Problem                                                 |
+| ------------------------------------------------------- |
+| **[Permutations](./permutations.py)**                   |
+| **[Staircase Traversal](./staircaseTraversal.py)**      |
+| **[Powerset](./powerset.py)**                           |
 | **[Phone Number Mnemonics](./phoneNumberMnemonics.py)** |
 
 ### Strings
