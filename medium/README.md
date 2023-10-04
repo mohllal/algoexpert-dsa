@@ -38,6 +38,7 @@
 | ----------------------------------------------- |
 | [Breadth-First Search](./breadthFirstSearch.py) |
 | [Cycle In Graph](./cycleInGraph.py)             |
+| [Single Cycle Check](./singleCycleCheck.py)     |
 
 ## Binary Search Trees
 
