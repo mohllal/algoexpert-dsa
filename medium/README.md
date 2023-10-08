@@ -39,6 +39,8 @@
 | [Breadth-First Search](./breadthFirstSearch.py) |
 | [Cycle In Graph](./cycleInGraph.py)             |
 | [Single Cycle Check](./singleCycleCheck.py)     |
+| **[River Sizes](./riverSizes.py)**              |
+| [Remove Islands](./removeIslands.py)            |
 
 ## Binary Search Trees
 
