@@ -34,13 +34,15 @@
 
 ## Graphs
 
-| Problem                                         |
-| ----------------------------------------------- |
-| [Breadth-First Search](./breadthFirstSearch.py) |
-| [Cycle In Graph](./cycleInGraph.py)             |
-| [Single Cycle Check](./singleCycleCheck.py)     |
-| **[River Sizes](./riverSizes.py)**              |
-| [Remove Islands](./removeIslands.py)            |
+| Problem                                                    |
+| ---------------------------------------------------------- |
+| [Breadth-First Search](./breadthFirstSearch.py)            |
+| [Cycle In Graph](./cycleInGraph.py)                        |
+| [Single Cycle Check](./singleCycleCheck.py)                |
+| **[River Sizes](./riverSizes.py)**                         |
+| [Remove Islands](./removeIslands.py)                       |
+| **[Minimum Passes of Matrix](./minimumPassesOfMatrix.py)** |
+| [Youngest Common Ancestor](./getYoungestCommonAncestor.py) |
 
 ## Binary Search Trees
 
