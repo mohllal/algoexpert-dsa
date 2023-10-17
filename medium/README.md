@@ -75,9 +75,10 @@
 
 ## Popluar Algorithms
 
-| Problem                      |
-| ---------------------------- |
-| [Union Find](./unionFind.py) |
+| Problem                                     |
+| ------------------------------------------- |
+| [Union Find](./unionFind.py)                |
+| [Kadane's Algorithm](./kadanesAlgorithm.py) |
 
 ### Linked Lists
 
