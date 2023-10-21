@@ -75,10 +75,11 @@
 
 ## Popluar Algorithms
 
-| Problem                                     |
-| ------------------------------------------- |
-| [Union Find](./unionFind.py)                |
-| [Kadane's Algorithm](./kadanesAlgorithm.py) |
+| Problem                                      |
+| -------------------------------------------- |
+| [Union Find](./unionFind.py)                 |
+| [Kadane's Algorithm](./kadanesAlgorithm.py)  |
+| [Stable Internships](./stableInternships.py) |
 
 ### Linked Lists
 
@@ -121,3 +122,10 @@
 | [One Edit](./oneEdit.py)                                              |
 | **[Valid IP Address](./validIPAddresses.py)**                         |
 | **[Longest Palindromic Substring](./longestPalindromicSubstring.py)** |
+
+### Dynamic Programming
+
+| Problem                                                            |
+| ------------------------------------------------------------------ |
+| [Min Number Of Coins For Change](./minNumberOfCoinsForChange.py)   |
+| **[Number Of Ways To Make Change](./numberOfWaysToMakeChange.py)** |
