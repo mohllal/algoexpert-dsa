@@ -125,7 +125,9 @@
 
 ### Dynamic Programming
 
-| Problem                                                          | Favorite |
-| ---------------------------------------------------------------- | -------- |
-| [Min Number Of Coins For Change](./minNumberOfCoinsForChange.py) |          |
-| [Number Of Ways To Make Change](./numberOfWaysToMakeChange.py)   | :star:   |
+| Problem                                                              | Favorite |
+| -------------------------------------------------------------------- | -------- |
+| [Min Number Of Coins For Change](./minNumberOfCoinsForChange.py)     |          |
+| [Number Of Ways To Make Change](./numberOfWaysToMakeChange.py)       | :star:   |
+| [Number Of Ways To TraverseG raph](./numberOfWaysToTraverseGraph.py) |          |
+| [Max Subset Sum No Adjacent](./maxSubsetSumNoAdjacent.py)            |          |
