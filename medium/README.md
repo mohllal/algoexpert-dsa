@@ -111,6 +111,7 @@
 | [Staircase Traversal](./staircaseTraversal.py)      | :star:   |
 | [Powerset](./powerset.py)                           | :star:   |
 | [Phone Number Mnemonics](./phoneNumberMnemonics.py) |          |
+| [Reveal Minesweeper](./revealMinesweeper.py)        |          |
 
 ### Strings
 
@@ -131,3 +132,4 @@
 | [Number Of Ways To Make Change](./numberOfWaysToMakeChange.py)       | :star:   |
 | [Number Of Ways To TraverseG raph](./numberOfWaysToTraverseGraph.py) |          |
 | [Max Subset Sum No Adjacent](./maxSubsetSumNoAdjacent.py)            |          |
+| [Levenshtein Distance](./levenshteinDistance.py)                     | :star:   |
