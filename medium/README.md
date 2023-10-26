@@ -112,6 +112,7 @@
 | [Powerset](./powerset.py)                           | :star:   |
 | [Phone Number Mnemonics](./phoneNumberMnemonics.py) |          |
 | [Reveal Minesweeper](./revealMinesweeper.py)        |          |
+| [Blackjack Probability](./blackjackProbability.py)  | :star:   |
 
 ### Strings
 
