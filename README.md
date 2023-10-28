@@ -4,6 +4,6 @@ Algoexpert problems' solutions.
 
 ## Problems by Difficulty
 
-- [🟩 Easy](./easy/)
-- [🟦 Medium](./medium/)
-- [🟥 Hard](./hard/)
+- :green_square: [Easy](./easy/)
+- :blue_square: [Medium](./medium/)
+- :red_square: [Hard](./hard/)
