@@ -5,6 +5,8 @@
 | Problem                               | Favorite |
 | ------------------------------------- | -------- |
 | [Four Number Sum](./fourNumberSum.py) |          |
+| [Subarray Sort](./subarraySort.py)    | :star:   |
+| [Largest Range](./largestRange.py)    |          |
 
 ## Popluar Algorithms
 
