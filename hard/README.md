@@ -2,11 +2,14 @@
 
 ## Arrays
 
-| Problem                               | Favorite |
-| ------------------------------------- | -------- |
-| [Four Number Sum](./fourNumberSum.py) |          |
-| [Subarray Sort](./subarraySort.py)    | :star:   |
-| [Largest Range](./largestRange.py)    |          |
+| Problem                                                  | Favorite |
+| -------------------------------------------------------- | -------- |
+| [Four Number Sum](./fourNumberSum.py)                    |          |
+| [Subarray Sort](./subarraySort.py)                       | :star:   |
+| [Largest Range](./largestRange.py)                       |          |
+| [Zigzag Traverse](./zigzagTraverse.py)                   | :star:   |
+| [Min Rewards](./minRewards.py)                           |          |
+| [Longest Subarray With Sum](./longestSubarrayWithSum.py) |          |
 
 ## Popluar Algorithms
 
