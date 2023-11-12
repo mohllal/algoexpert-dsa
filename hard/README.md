@@ -17,3 +17,9 @@
 | ----------------------------------------------- | -------- |
 | [Kruskals' Algorithm](./kruskalsAlgorithm.py)   |          |
 | [Dijkstra's Algorithm](./dijkstrasAlgorithm.py) |          |
+
+## Sorting
+
+| Problem                      | Favorite |
+| ---------------------------- | -------- |
+| [Quick Sort](./quickSort.py) |          |
