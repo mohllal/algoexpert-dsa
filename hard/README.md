@@ -23,3 +23,9 @@
 | Problem                      | Favorite |
 | ---------------------------- | -------- |
 | [Quick Sort](./quickSort.py) |          |
+
+## Binary Search Trees
+
+| Problem                  | Favorite |
+| ------------------------ | -------- |
+| [Sum BSTs](./sumBsts.py) | :star:   |
