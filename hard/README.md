@@ -10,6 +10,8 @@
 | [Zigzag Traverse](./zigzagTraverse.py)                   | :star:   |
 | [Min Rewards](./minRewards.py)                           |          |
 | [Longest Subarray With Sum](./longestSubarrayWithSum.py) |          |
+| [Count Squares](./countSquares.py)                       | :star:   |
+| [Knight Connection](./knightConnection.py)               |          |
 
 ## Popluar Algorithms
 
@@ -26,6 +28,7 @@
 
 ## Binary Search Trees
 
-| Problem                  | Favorite |
-| ------------------------ | -------- |
-| [Sum BSTs](./sumBsts.py) | :star:   |
+| Problem                    | Favorite |
+| -------------------------- | -------- |
+| [Sum BSTs](./sumBsts.py)   | :star:   |
+| [Same BSTs](./sameBsts.py) |          |
