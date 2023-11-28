@@ -28,7 +28,8 @@
 
 ## Binary Search Trees
 
-| Problem                    | Favorite |
-| -------------------------- | -------- |
-| [Sum BSTs](./sumBsts.py)   | :star:   |
-| [Same BSTs](./sameBsts.py) |          |
+| Problem                      | Favorite |
+| ---------------------------- | -------- |
+| [Sum BSTs](./sumBsts.py)     | :star:   |
+| [Same BSTs](./sameBsts.py)   |          |
+| [Repair BST](./repairBst.py) |          |
